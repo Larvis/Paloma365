@@ -30,5 +30,7 @@
 
 ### База данных
 
+https://dbdiagram.io/d/671270bf97a66db9a379e91c
+
 ![database.png](database.png)
 
